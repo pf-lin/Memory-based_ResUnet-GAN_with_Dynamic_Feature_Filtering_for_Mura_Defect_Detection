@@ -1,14 +1,14 @@
 # Memory-based ResUnet GAN with Dynamic Feature Filtering for Mura Defect Detection
 
-## Server Connect
+### Server Connect
 ```py
 ssh -L 9999:127.0.0.1:9999 sallylab@140.115.59.158
 ```
-## Docker
+### Docker
 ```py
 sudo docker exec -it levi_container bash
 ```
-## Project Execution
+### Project Execution
 ```py
 python mura_detector_memory.py
 ```
