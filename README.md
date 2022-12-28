@@ -43,7 +43,7 @@ python mura_detector_memory.py
  run_trainning(resunetgan, train_images_dataset, num_epochs, path_gmodal, path_dmodal, logs_path, logs_file, name_model, steps, resume=resume_trainning)
 ```
 <!-- ![image](https://user-images.githubusercontent.com/81354674/209825663-75249693-b96e-4dbe-876f-e954e1b5b336.png)-->  
-`Testing` **部分註解**
+\*`Testing` **部分註解**
 
 
 ## Run Testing
@@ -64,4 +64,4 @@ python mura_detector_memory.py
  resunetgan.testing(test_dateset, path_gmodal, path_dmodal, name_model)
 ```
 <!--![image](https://user-images.githubusercontent.com/81354674/209828320-5eb99061-fa10-4292-9a46-d97186f5f1b3.png)-->  
-`Training` **部分註解**
+\*`Training` **部分註解**
