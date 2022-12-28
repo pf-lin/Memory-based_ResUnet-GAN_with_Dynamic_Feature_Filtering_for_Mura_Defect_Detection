@@ -16,8 +16,8 @@
 
 ### Run Training
 >Edit code
->>![image](https://user-images.githubusercontent.com/81354674/209825663-75249693-b96e-4dbe-876f-e954e1b5b336.png)
->>>``Testing 部分註解``
+>>![image](https://user-images.githubusercontent.com/81354674/209825663-75249693-b96e-4dbe-876f-e954e1b5b336.png)  
+>>``Testing 部分``**註解**
 
 
 ### Run Testing
@@ -26,5 +26,5 @@
 >>![image](https://user-images.githubusercontent.com/81354674/209825914-f85d78f4-11db-4ddf-b616-1273aafeeae5.png)
 >
 >Edit code
->>![image](https://user-images.githubusercontent.com/81354674/209828095-46d5b6f5-0a39-4e8a-9d6e-d0ff8b8551cb.png)
->>>``Training 部分註解``
+>>![image](https://user-images.githubusercontent.com/81354674/209828320-5eb99061-fa10-4292-9a46-d97186f5f1b3.png)  
+>>``Training 部分``**註解**
