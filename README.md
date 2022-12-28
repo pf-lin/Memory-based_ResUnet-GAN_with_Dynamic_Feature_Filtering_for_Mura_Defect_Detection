@@ -12,9 +12,19 @@
 >> ![image](https://user-images.githubusercontent.com/81354674/209820069-f93d6d55-86df-43bc-8499-387f9ce86e05.png)
 >
 >Image setting
->> ![image](https://user-images.githubusercontent.com/81354674/209820154-2b250319-41af-4514-869d-9aa76f3ede01.png)
+>> ![image](https://user-images.githubusercontent.com/81354674/209825098-c0c61c5a-14dd-40c2-8c42-68783b530b9c.png)
 
 ### Run Training
+>Edit code
+>>![image](https://user-images.githubusercontent.com/81354674/209825663-75249693-b96e-4dbe-876f-e954e1b5b336.png)
+>>>``Testing 部分註解``
 
 
 ### Run Testing
+
+>Model path setting
+>>![image](https://user-images.githubusercontent.com/81354674/209825914-f85d78f4-11db-4ddf-b616-1273aafeeae5.png)
+>
+>Edit code
+>>![image](https://user-images.githubusercontent.com/81354674/209825541-a5e6ed21-7a33-4024-a798-7875352868c0.png)
+>>>``Training 部分註解``
