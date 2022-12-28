@@ -26,5 +26,5 @@
 >>![image](https://user-images.githubusercontent.com/81354674/209825914-f85d78f4-11db-4ddf-b616-1273aafeeae5.png)
 >
 >Edit code
->>![image](https://user-images.githubusercontent.com/81354674/209825541-a5e6ed21-7a33-4024-a798-7875352868c0.png)
+>>![image](https://user-images.githubusercontent.com/81354674/209828095-46d5b6f5-0a39-4e8a-9d6e-d0ff8b8551cb.png)
 >>>``Training 部分註解``
